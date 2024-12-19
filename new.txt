@@ -1,1 +1,3 @@
-new
+name aman
+age 21
+skill java
